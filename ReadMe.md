@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 - 👋 Olá, sou Daniel.<br>- 🚀 Desenvolvedor de software apaixonado por tecnologia.<br>- 💻 Trabalho principalmente com Python e React.<br>- 🌍 Contribuo para projetos de código aberto.<br>- 📚 Estudante constante, sempre aprendendo e melhorando.<br>- 🎯 Foco em me tornar um programador Full Stack.<br>- 🎮 Nas horas vagas, sou um entusiasta de animes e jogos.<br>- 📧 Você pode me contatar em tecalin3@gmail.com.<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/danyelsmage) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cromaa_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@daniels6736) 
 
 # 💻 Tech Stack:
